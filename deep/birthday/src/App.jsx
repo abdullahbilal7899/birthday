@@ -120,7 +120,7 @@ const App = () => {
         return (
           <div className="center-div fancy-div">
             <h1>Final Surprise!</h1>
-            <p className="final-message">You are amazing! Wishing you all the best!</p>
+            <p className="final-message">Happiest Birthday. May Allah bring more Joy and Happiness in your life. May Allah turn all your In shāʾ Allāh into al-Ḥamdu lillāh</p>
             {showConfetti && <Confetti />}
           </div>
         );
@@ -150,3 +150,7 @@ const App = () => {
 };
 
 export default App;
+
+
+
+
